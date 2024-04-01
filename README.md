@@ -23,4 +23,5 @@ The following is the information system from the workshop
       3. You are not allowed to upload on your template websites or template collection websites or any other third party websites without our permission.
 
 Template Name: sistem informasi
+
 Template Author: Frozen King
